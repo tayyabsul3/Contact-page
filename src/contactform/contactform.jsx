@@ -54,7 +54,7 @@ export default function Contactform() {
           </form>
         </div>
         <div className="formImage">
-          <img src="../public/images/Service 24_7-pana 1.svg" />
+          <img src="./images/Service 24_7-pana 1.svg" />
         </div>
       </div>
     </>
